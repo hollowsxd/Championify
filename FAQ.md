@@ -9,7 +9,7 @@ Yep it's safe! Were not modifying League of Legends at all, and got the clear th
 
 
 #### How do I make this work on Windows?
-Run Championify.exe, the app will try and look for your League of Legends folder for you. If the app can't find it, browse to your League of Legends folder where `lol.launcher.exe` is saved (`LoLLauncher.exe` or `lol.exe` for Garena installations).
+Run Championify.exe, the app will try and look for your League of Legends folder for you. If the app can't find it, browse to your League of Legends folder where `lol.launcher.exe` is saved (`LoLLauncher.exe` or `lolex.exe` for Garena installations).
 
 
 #### How do I make this work on Mac?
