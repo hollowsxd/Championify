@@ -87,8 +87,8 @@ describe('src/path_manager', () => {
       pathManager.checkInstallPath(test_path, function(err, selected_path, config_dir, executable) {
         should.not.exist(err);
         selected_path.should.equal(test_path);
-        config_dir.should.equal('Game/Config/Champions/');
-        executable.should.equal('lolex.exe');
+        config_dir.should.equal('Config/Champions/');
+        executable.should.equal('League of Legends.exe');
         done();
       });
     });
